@@ -135,13 +135,15 @@ We collaborated with leading architects to deliver this massive commercial struc
         id: 'Balaji-heights',
         title: 'Balaji Heights',
         category: 'RCC Work',
-        location: 'Rees-Rasayani, Mumbai',
+        location: 'Kalamboli, Mumbai',
         shortDesc: 'RCC Work',
         description: 'In Balaji Heights,',
-        coverImage: 'https://i.ibb.co/rG9ctFjp/pixelcut-export-2025-01-24-T202010-117.jpg',
+        coverImage: 'https://i.ibb.co/CsmFSfRd/Balaji-4.jpg',
         gallery: [
-            'https://i.ibb.co/rG9ctFjp/pixelcut-export-2025-01-24-T202010-117.jpg',
-            'https://i.ibb.co/Z1hc2Dgr/download-2025-12-09-T125550-596-1.jpg'
+            'https://i.ibb.co/CsmFSfRd/Balaji-4.jpg',
+            'https://i.ibb.co/mVkSb4t4/Balaji-Heights-1.jpg',
+            'https://i.ibb.co/whnQ1zTY/Balaji-2.jpg',
+            'https://i.ibb.co/Hp3F6wzR/Balaji-3.jpg'
         ],
         info: {
             client: 'Zenith Corp',
