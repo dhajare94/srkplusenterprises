@@ -167,7 +167,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 auto-rows-[300px] gap-6 lg:gap-8">
             {/* Project 1 - Large Left */}
             <Link href="/portfolio/malodaya-hinjewadi-pune" className="group cursor-pointer block lg:col-span-7 row-span-2 relative overflow-hidden rounded-3xl bg-gray-100 shadow-xl shadow-gray-200/50">
-              <img src="/project-images/Hinjewadi/Home.jpeg"
+              <img src="https://i.ibb.co/Qv79Wcb1/Home.jpg"
                 alt="Malodaya Hinjewadi Pune"
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-[2s] ease-out" />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0B0B0B]/90 via-[#0B0B0B]/20 to-transparent transition-opacity duration-300"></div>
